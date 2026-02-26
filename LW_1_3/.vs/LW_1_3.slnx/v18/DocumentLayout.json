@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VISUAL STUDIO PROJECTS\\LW_1_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C08D7D-4796-52EA-F90F-6A3394FA3233}|LW_1_3.fsproj|d:\\visual studio projects\\lw_1_3\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{A9C08D7D-4796-52EA-F90F-6A3394FA3233}|LW_1_3.fsproj|solutionrelative:program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.fs",
+              "DocumentMoniker": "D:\\VISUAL STUDIO PROJECTS\\LW_1_3\\Program.fs",
+              "RelativeDocumentMoniker": "Program.fs",
+              "ToolTip": "D:\\VISUAL STUDIO PROJECTS\\LW_1_3\\Program.fs",
+              "RelativeToolTip": "Program.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-23T13:55:26.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
