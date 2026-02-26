@@ -25,8 +25,7 @@
 7. Вывести список длин строк на экран.
 
 ### Тестирование
-file:///C:/Users/user/Desktop/Screenshot_1.png
-
+<img width="1317" height="163" alt="Image" src="https://github.com/user-attachments/assets/45c39ed6-5043-4ca7-8322-1c13b7120b9c" />
 
 
 # Задание 2
@@ -56,8 +55,6 @@ file:///C:/Users/user/Desktop/Screenshot_1.png
 8. Вывести результат на экран.
 
 ### Тестирование
-
-
 
 
 
