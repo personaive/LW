@@ -55,7 +55,7 @@
 8. Вывести результат на экран.
 
 ### Тестирование
-
+<img width="1919" height="266" alt="Image" src="https://github.com/user-attachments/assets/6b2bb8ae-dfd1-4296-80fd-f920baafe0fc" />
 
 
 # Задание 3
@@ -89,8 +89,4 @@
 9. Вывести результат на экран.
 
 ### Тестирование
-
-
-
-
-
+<img width="1919" height="385" alt="Image" src="https://github.com/user-attachments/assets/c189c1ec-b326-4901-a1d3-3896f9f0137a" />
