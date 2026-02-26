@@ -25,7 +25,7 @@
 7. Вывести список длин строк на экран.
 
 ### Тестирование
-
+file:///C:/Users/user/Desktop/Screenshot_1.png
 
 
 
