@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="LW_1_2">
+    <resource name="FSharpSignatureData.LW_1_2" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.LW_1_2" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.LW_1_2" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.LW_1_2" action="remove"></resource>
+    <resource name="FSharpOptimizationData.LW_1_2" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.LW_1_2" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.LW_1_2" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.LW_1_2" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.LW_1_2" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.LW_1_2" action="remove"></resource>
+  </assembly>
+</linker>
