@@ -25,10 +25,8 @@
 7\. Вывести список lengths на экран
 
 ### Тестирование
-
-
-
-
+<img width="1087" height="328" alt="Image" src="https://github.com/user-attachments/assets/d3be1c07-4339-4a07-9806-f8550fff773d" />
+<img width="1100" height="241" alt="Image" src="https://github.com/user-attachments/assets/cbef1c91-b085-4416-8ad3-762a225ee67b" />
 
 # Задание 2
 
@@ -59,10 +57,8 @@
 9\. Вывести result на экран
 
 ### Тестирование
-
-
-
-
+<img width="735" height="128" alt="Image" src="https://github.com/user-attachments/assets/78229583-634e-4fec-b3f6-72e87080aafa" />
+<img width="763" height="130" alt="Image" src="https://github.com/user-attachments/assets/9c061916-3bee-4a01-8714-b9ecbb93acaf" />
 
 # Задание 3
 
@@ -76,7 +72,7 @@
 
 ### Алгоритм решения
 
-1. Попросить пользователя ввести действительную часть первого числа aRe
+1\. Попросить пользователя ввести действительную часть первого числа aRe
 
 2\. Попросить пользователя ввести мнимую часть первого числа aIm
 
@@ -103,4 +99,5 @@
 13\. Вывести результат в формате resRe + resIm i или resRe - abs(resIm) i, если мнимая часть отрицательна
 
 ### Тестирование
-
+<img width="630" height="453" alt="Image" src="https://github.com/user-attachments/assets/84c63bf8-2f51-498a-a6f5-0c01b4027466" />
+<img width="775" height="528" alt="Image" src="https://github.com/user-attachments/assets/765408f0-0755-4b1b-81da-02afab66f3d7" />
